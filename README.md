@@ -60,5 +60,5 @@ README.md: Project documentation.
 ## Contact
 For any queries, please contact krishnaganth2206@gmail.com.
 # Linkedin Profile link: 
-[LinkedIn profile](https://www.linkedin.com/in/krishnaganth-m-468309251/) <sup>[Link1]([http://example.com](https://www.linkedin.com/in/krishnaganth-m-468309251/))</sup>  
+[LinkedIn profile](https://www.linkedin.com/in/krishnaganth-m-468309251/) 
 
