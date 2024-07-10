@@ -60,4 +60,4 @@ README.md: Project documentation.
 ## Contact
 For any queries, please contact krishnaganth2206@gmail.com.
 # Linkedin Profile link: 
-https://www.linkedin.com/in/krishnaganth-m-468309251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNOk%2FGV%2BVSMCAPp8%2B4yCczA%3D%3D
+[https://www.linkedin.com/in/krishnaganth-m-468309251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNOk%2FGV%2BVSMCAPp8%2B4yCczA%3D%3D](https://www.linkedin.com/in/krishnaganth-m-468309251/)
