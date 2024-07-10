@@ -59,6 +59,14 @@ label_encoder_*.pkl: Saved LabelEncoder objects for categorical features.
 README.md: Project documentation.
 ## Contact
 For any queries, please contact krishnaganth2206@gmail.com.
-# Linkedin Profile link: 
-[LinkedIn profile](https://www.linkedin.com/in/krishnaganth-m-468309251/) 
+# Linkedin Profile link: [LinkedIn profile](https://www.linkedin.com/in/krishnaganth-m-468309251/) 
+
+
+<img width="901" alt="image" src="https://github.com/Krishnaganth22/Singapore-flat-resale-Price-prediction/assets/161042495/6c97b817-6ea3-41b9-bea4-f21af5a7655b">
+
+
+## THANK YOU !
+
+
+
 
