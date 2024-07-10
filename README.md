@@ -39,16 +39,23 @@ The dataset used contains historical resale flat prices in Singapore. The cleani
 ## Streamlit Application
 The Streamlit app provides an interactive interface for users to input flat details and get the predicted resale price.
 
-Usage
+## Usage
 Clone the repository.
+
 Install the necessary dependencies using pip install -r requirements.txt.
+
 Run the Streamlit app using streamlit run app.py.
 Files
 data/: Contains the datasets used for training and testing the model.
+
 notebooks/: Jupyter notebooks for data cleaning, preprocessing, and model building.
+
 app.py: Streamlit application code.
+
 model.pkl: Saved model file.
+
 label_encoder_*.pkl: Saved LabelEncoder objects for categorical features.
+
 README.md: Project documentation.
-Contact
+## Contact
 For any queries, please contact krishnaganth2206@gmail.com.
